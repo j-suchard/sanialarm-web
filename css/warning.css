@@ -1,0 +1,65 @@
+html,
+body {
+    height: 100%;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/img/cvd_logo.svg"), linear-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.25)), url("/img/warning.svg");
+    background-repeat: no-repeat, repeat, no-repeat;
+    background-position: center, left, left;
+    background-size: contain, 64px, auto;
+}
+
+body {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+    padding-top: 40px;
+}
+
+main {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    text-align: center;
+}
+
+card {
+    position: relative;
+    display: flex;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    flex-direction: column;
+    min-width: 0;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0.25rem solid #cc980a;
+    border-radius: 25px;
+}
+
+card-header {
+    display: block;
+    text-align: center;
+    padding: .5rem 1rem;
+    background-color: rgba(0, 0, 0, .03);
+    border-radius: 24px 24px 0px 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    color: #cc980a;
+}
+
+card-body {
+    display: block;
+    text-align: center;
+    padding: 0.5rem;
+    color: #cc980a;
+}
+
+card-body p {
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+.request-id {
+    color: #cc980a;
+}

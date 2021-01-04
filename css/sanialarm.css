@@ -1,0 +1,8 @@
+html,
+body {
+    height: 100%;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("/img/cvd_logo.svg");
+    background-repeat: repeat;
+    background-size: 7.5%;
+    background-position: center;
+}

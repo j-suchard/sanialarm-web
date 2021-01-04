@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 360px;
+    padding: 15px;
+    margin: auto;
+    background-color: floralwhite;
+    border-radius: 25px;
+}
+
+.form-signin input {
+    border-radius: 172.5px;
+}
+
+.form-signin button {
+    border-radius: 172.5px;
+}
