@@ -21,7 +21,7 @@
     <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#085eeb">
     <meta name="msapplication-TileColor" content="#085eeb">
     <meta name="theme-color" content="#085eeb">
-    <meta http-equiv="refresh" content="10; url=/login"/>
+    <meta http-equiv="refresh" content="5; url=/login"/>
 </head>
 <body>
 <main lang="de">
@@ -33,7 +33,7 @@
         <card-body>
             <p>
                 Sie sind offensichtlich nicht angemeldet.<br>
-                Sie werden in 10 Sekunden zur Anmeldeseite weitergeleitet.<br>
+                Sie werden in 5 Sekunden zur Anmeldeseite weitergeleitet.<br>
                 <br>
                 <span class="text-mutes">
                         Sollte dies nicht geschehen benutzen sie bitte den Button
